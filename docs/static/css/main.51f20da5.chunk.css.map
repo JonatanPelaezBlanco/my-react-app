@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,UAEI,wBAAyB,CACzB,UAAY,CACZ,sCAAyC,CACzC,gBAAiB,CACjB,YACJ","file":"main.51f20da5.chunk.css","sourcesContent":["html,\r\nbody {\r\n    background-color: #21232A;\r\n    color: white;\r\n    font-family: Arial, Helvetica, sans-serif;\r\n    font-size: 1.3rem;\r\n    padding: 70px;\r\n}"]}
